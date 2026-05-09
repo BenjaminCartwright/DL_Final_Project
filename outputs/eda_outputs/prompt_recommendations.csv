@@ -1,0 +1,5 @@
+prompt_variant,when_to_use,data_coverage,tradeoff
+question_only,fast baseline and sanity checks,1.0,ignores hint/lecture signal
+question_plus_hint,hint present and concise,0.7700264613904257,hint unavailable for subset
+question_plus_lecture,lecture present with useful context,0.8621602116911234,long/noisy context risk
+full_context,maximize available information,0.6855905701226847,can increase latency/truncation

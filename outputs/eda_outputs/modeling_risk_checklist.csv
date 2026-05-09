@@ -1,0 +1,5 @@
+risk,evidence,mitigation
+label_position_bias,answer index distribution is not uniform,evaluate choice-scoring and calibration
+context_missingness,hint/lecture missing in non-trivial share,context-aware templates with fallbacks
+split_distribution_shift,mix differs across some metadata fields,track per-slice metrics
+long_prompt_truncation,lecture lengths have long tails,run clipping/compression ablations

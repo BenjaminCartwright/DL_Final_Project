@@ -1,0 +1,21 @@
+id,pred_answer,raw_output,parse_status,num_choices
+test_01918,0,Answer: D,parse_failure,4
+test_02484,0,Answer: D,parse_failure,4
+test_03843,1,B,ok,4
+test_02160,0,Answer: C,parse_failure,3
+test_01805,0,Answer: A,parse_failure,2
+test_03658,0,Answer: B,parse_failure,2
+test_03109,0,Answer: C,parse_failure,3
+test_01678,0,A,ok,3
+test_02960,0,Answer: C,parse_failure,3
+test_01152,0,A,ok,3
+test_03476,0,Answer: A,parse_failure,4
+test_01430,0,A,ok,3
+test_01563,1,B,ok,4
+test_01553,0,Answer: B,parse_failure,3
+test_00378,0,Answer: B,parse_failure,2
+test_02499,0,Answer: C,parse_failure,3
+test_04036,0,Answer: B,parse_failure,2
+test_01767,1,B,ok,2
+test_01108,0,A,ok,2
+test_01290,0,Answer: A,parse_failure,2

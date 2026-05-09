@@ -1,0 +1,119 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{Deep Learning: Final Project Report}
+\author{Benjamin Cartwright }
+\date{May 2026}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+This project studies parameter-efficient adaptation of a vision-language model for science multiple-choice question answering from image-text context. Each example provides an image, a question, candidate options, and optional supporting context (hint and lecture). The goal is to predict the correct answer index.
+
+Our base model is \texttt{HuggingFaceTB/SmolVLM-500M-Instruct}. We compare a zero-shot baseline against several adapter-based fine-tuning variants under a common prompt/evaluation setup. The main question is whether low-rank adaptation on selected transformer submodules can improve accuracy while keeping trainable parameters small.
+
+The experimental strategy is:
+\begin{itemize}
+    \item establish a zero-shot reference point,
+    \item train LoRA-based models with two objectives (option scoring and SFT),
+    \item evaluate DoRA as a magnitude-direction variant of LoRA,
+    \item test a broader LoRA target set that includes MLP and attention projections.
+\end{itemize}
+
+We report validation accuracy, compare adaptation choices, and analyze which parameter-efficient design provides the best performance/complexity trade-off.
+
+\section{Dataset}
+
+We use the provided CSV splits with paired images:
+\begin{itemize}
+    \item \texttt{train.csv}: 3109 examples,
+    \item \texttt{val.csv}: 1048 examples,
+    \item \texttt{test.csv}: 1008 examples.
+\end{itemize}
+
+Each row includes question text, a variable-length list of candidate choices, number of choices, image path, and (for train/val) the integer answer label. Additional context fields \texttt{hint} and \texttt{lecture} are included in most prompt variants. Images are loaded from split-specific directories under \texttt{data/images/images/\{split\}/...}.
+
+Formally, each supervised sample is
+\[
+\left(x_i^{\text{text}},\, x_i^{\text{img}},\, \mathcal{C}_i=\{c_{i1},\dots,c_{iK_i}\},\, y_i\right),
+\]
+where $K_i$ is the number of options and $y_i \in \{1,\dots,K_i\}$ is the correct option index.
+
+Minimal preprocessing is applied:
+\begin{itemize}
+    \item fill missing text fields with empty strings,
+    \item parse serialized choice lists into ordered options,
+    \item format prompts consistently (question + choices + optional hint/lecture),
+    \item resize/process images through the model processor at runtime.
+\end{itemize}
+
+\section{Model Description}
+
+Let $f_{\theta}$ denote the pretrained multimodal backbone, and let $p_{\theta}(a \mid x)$ be the model distribution over answer strings/tokens conditioned on image-text input $x$.
+
+\subsection*{1) Zero-shot baseline}
+
+No trainable parameters are added: $\theta$ is frozen. For each example we generate an answer string and parse it into an index:
+\[
+\hat{y} = \operatorname*{parse}\!\left(\arg\max_{a} p_{\theta}(a \mid x)\right).
+\]
+This provides a reference accuracy before adaptation.
+
+\subsection*{2) LoRA model: option scoring and SFT}
+
+For a linear projection $W \in \mathbb{R}^{d_{\text{out}}\times d_{\text{in}}}$, LoRA uses
+\[
+W' = W + \Delta W,\qquad
+\Delta W = \frac{\alpha}{r}BA,
+\]
+with $A \in \mathbb{R}^{r\times d_{\text{in}}}$, $B \in \mathbb{R}^{d_{\text{out}}\times r}$, rank $r \ll \min(d_{\text{in}},d_{\text{out}})$, and frozen $W$.
+
+\textbf{(a) Option scoring objective.}
+For candidate answers $\{a_1,\dots,a_{K}\}$, define scores by conditional log-likelihood:
+\[
+s_k = \log p_{\theta,\phi}(a_k \mid x),
+\]
+where $\phi=\{A,B\}$ are trainable adapter parameters. Training minimizes cross-entropy over choices:
+\[
+\mathcal{L}_{\text{opt}} = -\log \frac{\exp(s_{y})}{\sum_{k=1}^{K}\exp(s_k)}.
+\]
+
+\textbf{(b) SFT objective.}
+Given target answer token sequence $t_{1:T}$,
+\[
+\mathcal{L}_{\text{SFT}} = -\sum_{j=1}^{T}\log p_{\theta,\phi}(t_j \mid x, t_{<j}),
+\]
+with loss masking so only target-answer tokens are supervised.
+
+\subsection*{3) DoRA model}
+
+DoRA reparameterizes each adapted weight into magnitude and direction, updating direction with low rank while decoupling scale:
+\[
+W = m \,\hat{W},\qquad \|\hat{W}\|=1,\qquad
+\hat{W}' = \hat{W} + \frac{\alpha}{r}BA,
+\]
+\[
+W' = m' \,\frac{\hat{W}'}{\|\hat{W}'\|}.
+\]
+Compared with LoRA, this can improve stability by separating norm and directional updates.
+
+\subsection*{4) LoRA with MLP + attention targets}
+
+Standard LoRA often targets attention projections only:
+\[
+\mathcal{T}_{\text{attn}}=\{W_q,W_k,W_v,W_o\}.
+\]
+We also test broader coverage including feed-forward/MLP blocks:
+\[
+\mathcal{T}_{\text{attn+mlp}}=\{W_q,W_k,W_v,W_o,W_{\text{up}},W_{\text{down}},W_{\text{gate}}\}.
+\]
+Adapters are injected for each $W\in\mathcal{T}$:
+\[
+W' = W + \frac{\alpha}{r}B_WA_W.
+\]
+This increases adaptation capacity while remaining parameter-efficient; in experiments we compare whether this broader target set outperforms attention-only adaptation.
+
+\end{document}

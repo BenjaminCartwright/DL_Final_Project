@@ -1,0 +1,261 @@
+id,split,lecture_chars,lecture
+train_00077,train,2002,"Offspring phenotypes: dominant or recessive?
+How do you determine an organism's phenotype for a trait? Look at the combination of alleles in the organism's genotype for the gene that affects that trait. Some alleles have types called dominant and recessive. These two types can cause different versions of the trait to appear as the organism's phenotype.
+If an organism's genotype has at least one dominant allele for a gene, the organism's phenotype will be the dominant allele's version of the gene's trait.
+If an organism's genotype has only recessive alleles for a gene, the organism's phenotype will be the recessive allele's version of the gene's trait.
+In a Punnett square, each box represents a different outcome, or result. Each of the four outcomes is equally likely to happen. Each box represents one way the parents' alleles can combine to form an offspring's genotype. Because there are four boxes in the Punnett square, there are four possible outcomes.
+An event is a set of one or more outcomes. The probability of an event is a measure of how likely the event is to happen. This probability is a number between 0 and 1, and it can be written as a fraction:
+probability of an event = number of ways the event can happen / number of equally likely outcomes
+You can use a Punnett square to calculate the probability that a cross will produce certain offspring. For example, the Punnett square below has two boxes with the genotype Ff. It has one box with the genotype FF and one box with the genotype ff. This means there are two ways the parents' alleles can combine to form Ff. There is one way they can combine to form FF and one way they can combine to form ff.
+ | F | f
+F | FF | Ff
+f | Ff | ff
+Consider an event in which this cross produces an offspring with the genotype ff. The probability of this event is given by the following fraction:
+number of ways the event can happen / number of equally likely outcomes = number of boxes with the genotype ff / total number of boxes = 1 / 4."
+train_09296,train,2002,"Offspring phenotypes: dominant or recessive?
+How do you determine an organism's phenotype for a trait? Look at the combination of alleles in the organism's genotype for the gene that affects that trait. Some alleles have types called dominant and recessive. These two types can cause different versions of the trait to appear as the organism's phenotype.
+If an organism's genotype has at least one dominant allele for a gene, the organism's phenotype will be the dominant allele's version of the gene's trait.
+If an organism's genotype has only recessive alleles for a gene, the organism's phenotype will be the recessive allele's version of the gene's trait.
+In a Punnett square, each box represents a different outcome, or result. Each of the four outcomes is equally likely to happen. Each box represents one way the parents' alleles can combine to form an offspring's genotype. Because there are four boxes in the Punnett square, there are four possible outcomes.
+An event is a set of one or more outcomes. The probability of an event is a measure of how likely the event is to happen. This probability is a number between 0 and 1, and it can be written as a fraction:
+probability of an event = number of ways the event can happen / number of equally likely outcomes
+You can use a Punnett square to calculate the probability that a cross will produce certain offspring. For example, the Punnett square below has two boxes with the genotype Ff. It has one box with the genotype FF and one box with the genotype ff. This means there are two ways the parents' alleles can combine to form Ff. There is one way they can combine to form FF and one way they can combine to form ff.
+ | F | f
+F | FF | Ff
+f | Ff | ff
+Consider an event in which this cross produces an offspring with the genotype ff. The probability of this event is given by the following fraction:
+number of ways the event can happen / number of equally likely outcomes = number of boxes with the genotype ff / total number of boxes = 1 / 4."
+train_06364,train,2002,"Offspring phenotypes: dominant or recessive?
+How do you determine an organism's phenotype for a trait? Look at the combination of alleles in the organism's genotype for the gene that affects that trait. Some alleles have types called dominant and recessive. These two types can cause different versions of the trait to appear as the organism's phenotype.
+If an organism's genotype has at least one dominant allele for a gene, the organism's phenotype will be the dominant allele's version of the gene's trait.
+If an organism's genotype has only recessive alleles for a gene, the organism's phenotype will be the recessive allele's version of the gene's trait.
+In a Punnett square, each box represents a different outcome, or result. Each of the four outcomes is equally likely to happen. Each box represents one way the parents' alleles can combine to form an offspring's genotype. Because there are four boxes in the Punnett square, there are four possible outcomes.
+An event is a set of one or more outcomes. The probability of an event is a measure of how likely the event is to happen. This probability is a number between 0 and 1, and it can be written as a fraction:
+probability of an event = number of ways the event can happen / number of equally likely outcomes
+You can use a Punnett square to calculate the probability that a cross will produce certain offspring. For example, the Punnett square below has two boxes with the genotype Ff. It has one box with the genotype FF and one box with the genotype ff. This means there are two ways the parents' alleles can combine to form Ff. There is one way they can combine to form FF and one way they can combine to form ff.
+ | F | f
+F | FF | Ff
+f | Ff | ff
+Consider an event in which this cross produces an offspring with the genotype ff. The probability of this event is given by the following fraction:
+number of ways the event can happen / number of equally likely outcomes = number of boxes with the genotype ff / total number of boxes = 1 / 4."
+train_08496,train,2002,"Offspring phenotypes: dominant or recessive?
+How do you determine an organism's phenotype for a trait? Look at the combination of alleles in the organism's genotype for the gene that affects that trait. Some alleles have types called dominant and recessive. These two types can cause different versions of the trait to appear as the organism's phenotype.
+If an organism's genotype has at least one dominant allele for a gene, the organism's phenotype will be the dominant allele's version of the gene's trait.
+If an organism's genotype has only recessive alleles for a gene, the organism's phenotype will be the recessive allele's version of the gene's trait.
+In a Punnett square, each box represents a different outcome, or result. Each of the four outcomes is equally likely to happen. Each box represents one way the parents' alleles can combine to form an offspring's genotype. Because there are four boxes in the Punnett square, there are four possible outcomes.
+An event is a set of one or more outcomes. The probability of an event is a measure of how likely the event is to happen. This probability is a number between 0 and 1, and it can be written as a fraction:
+probability of an event = number of ways the event can happen / number of equally likely outcomes
+You can use a Punnett square to calculate the probability that a cross will produce certain offspring. For example, the Punnett square below has two boxes with the genotype Ff. It has one box with the genotype FF and one box with the genotype ff. This means there are two ways the parents' alleles can combine to form Ff. There is one way they can combine to form FF and one way they can combine to form ff.
+ | F | f
+F | FF | Ff
+f | Ff | ff
+Consider an event in which this cross produces an offspring with the genotype ff. The probability of this event is given by the following fraction:
+number of ways the event can happen / number of equally likely outcomes = number of boxes with the genotype ff / total number of boxes = 1 / 4."
+train_02682,train,2002,"Offspring phenotypes: dominant or recessive?
+How do you determine an organism's phenotype for a trait? Look at the combination of alleles in the organism's genotype for the gene that affects that trait. Some alleles have types called dominant and recessive. These two types can cause different versions of the trait to appear as the organism's phenotype.
+If an organism's genotype has at least one dominant allele for a gene, the organism's phenotype will be the dominant allele's version of the gene's trait.
+If an organism's genotype has only recessive alleles for a gene, the organism's phenotype will be the recessive allele's version of the gene's trait.
+In a Punnett square, each box represents a different outcome, or result. Each of the four outcomes is equally likely to happen. Each box represents one way the parents' alleles can combine to form an offspring's genotype. Because there are four boxes in the Punnett square, there are four possible outcomes.
+An event is a set of one or more outcomes. The probability of an event is a measure of how likely the event is to happen. This probability is a number between 0 and 1, and it can be written as a fraction:
+probability of an event = number of ways the event can happen / number of equally likely outcomes
+You can use a Punnett square to calculate the probability that a cross will produce certain offspring. For example, the Punnett square below has two boxes with the genotype Ff. It has one box with the genotype FF and one box with the genotype ff. This means there are two ways the parents' alleles can combine to form Ff. There is one way they can combine to form FF and one way they can combine to form ff.
+ | F | f
+F | FF | Ff
+f | Ff | ff
+Consider an event in which this cross produces an offspring with the genotype ff. The probability of this event is given by the following fraction:
+number of ways the event can happen / number of equally likely outcomes = number of boxes with the genotype ff / total number of boxes = 1 / 4."
+train_00158,train,2002,"Offspring phenotypes: dominant or recessive?
+How do you determine an organism's phenotype for a trait? Look at the combination of alleles in the organism's genotype for the gene that affects that trait. Some alleles have types called dominant and recessive. These two types can cause different versions of the trait to appear as the organism's phenotype.
+If an organism's genotype has at least one dominant allele for a gene, the organism's phenotype will be the dominant allele's version of the gene's trait.
+If an organism's genotype has only recessive alleles for a gene, the organism's phenotype will be the recessive allele's version of the gene's trait.
+In a Punnett square, each box represents a different outcome, or result. Each of the four outcomes is equally likely to happen. Each box represents one way the parents' alleles can combine to form an offspring's genotype. Because there are four boxes in the Punnett square, there are four possible outcomes.
+An event is a set of one or more outcomes. The probability of an event is a measure of how likely the event is to happen. This probability is a number between 0 and 1, and it can be written as a fraction:
+probability of an event = number of ways the event can happen / number of equally likely outcomes
+You can use a Punnett square to calculate the probability that a cross will produce certain offspring. For example, the Punnett square below has two boxes with the genotype Ff. It has one box with the genotype FF and one box with the genotype ff. This means there are two ways the parents' alleles can combine to form Ff. There is one way they can combine to form FF and one way they can combine to form ff.
+ | F | f
+F | FF | Ff
+f | Ff | ff
+Consider an event in which this cross produces an offspring with the genotype ff. The probability of this event is given by the following fraction:
+number of ways the event can happen / number of equally likely outcomes = number of boxes with the genotype ff / total number of boxes = 1 / 4."
+train_12444,train,2002,"Offspring phenotypes: dominant or recessive?
+How do you determine an organism's phenotype for a trait? Look at the combination of alleles in the organism's genotype for the gene that affects that trait. Some alleles have types called dominant and recessive. These two types can cause different versions of the trait to appear as the organism's phenotype.
+If an organism's genotype has at least one dominant allele for a gene, the organism's phenotype will be the dominant allele's version of the gene's trait.
+If an organism's genotype has only recessive alleles for a gene, the organism's phenotype will be the recessive allele's version of the gene's trait.
+In a Punnett square, each box represents a different outcome, or result. Each of the four outcomes is equally likely to happen. Each box represents one way the parents' alleles can combine to form an offspring's genotype. Because there are four boxes in the Punnett square, there are four possible outcomes.
+An event is a set of one or more outcomes. The probability of an event is a measure of how likely the event is to happen. This probability is a number between 0 and 1, and it can be written as a fraction:
+probability of an event = number of ways the event can happen / number of equally likely outcomes
+You can use a Punnett square to calculate the probability that a cross will produce certain offspring. For example, the Punnett square below has two boxes with the genotype Ff. It has one box with the genotype FF and one box with the genotype ff. This means there are two ways the parents' alleles can combine to form Ff. There is one way they can combine to form FF and one way they can combine to form ff.
+ | F | f
+F | FF | Ff
+f | Ff | ff
+Consider an event in which this cross produces an offspring with the genotype ff. The probability of this event is given by the following fraction:
+number of ways the event can happen / number of equally likely outcomes = number of boxes with the genotype ff / total number of boxes = 1 / 4."
+train_05822,train,2002,"Offspring phenotypes: dominant or recessive?
+How do you determine an organism's phenotype for a trait? Look at the combination of alleles in the organism's genotype for the gene that affects that trait. Some alleles have types called dominant and recessive. These two types can cause different versions of the trait to appear as the organism's phenotype.
+If an organism's genotype has at least one dominant allele for a gene, the organism's phenotype will be the dominant allele's version of the gene's trait.
+If an organism's genotype has only recessive alleles for a gene, the organism's phenotype will be the recessive allele's version of the gene's trait.
+In a Punnett square, each box represents a different outcome, or result. Each of the four outcomes is equally likely to happen. Each box represents one way the parents' alleles can combine to form an offspring's genotype. Because there are four boxes in the Punnett square, there are four possible outcomes.
+An event is a set of one or more outcomes. The probability of an event is a measure of how likely the event is to happen. This probability is a number between 0 and 1, and it can be written as a fraction:
+probability of an event = number of ways the event can happen / number of equally likely outcomes
+You can use a Punnett square to calculate the probability that a cross will produce certain offspring. For example, the Punnett square below has two boxes with the genotype Ff. It has one box with the genotype FF and one box with the genotype ff. This means there are two ways the parents' alleles can combine to form Ff. There is one way they can combine to form FF and one way they can combine to form ff.
+ | F | f
+F | FF | Ff
+f | Ff | ff
+Consider an event in which this cross produces an offspring with the genotype ff. The probability of this event is given by the following fraction:
+number of ways the event can happen / number of equally likely outcomes = number of boxes with the genotype ff / total number of boxes = 1 / 4."
+train_06751,train,2002,"Offspring phenotypes: dominant or recessive?
+How do you determine an organism's phenotype for a trait? Look at the combination of alleles in the organism's genotype for the gene that affects that trait. Some alleles have types called dominant and recessive. These two types can cause different versions of the trait to appear as the organism's phenotype.
+If an organism's genotype has at least one dominant allele for a gene, the organism's phenotype will be the dominant allele's version of the gene's trait.
+If an organism's genotype has only recessive alleles for a gene, the organism's phenotype will be the recessive allele's version of the gene's trait.
+In a Punnett square, each box represents a different outcome, or result. Each of the four outcomes is equally likely to happen. Each box represents one way the parents' alleles can combine to form an offspring's genotype. Because there are four boxes in the Punnett square, there are four possible outcomes.
+An event is a set of one or more outcomes. The probability of an event is a measure of how likely the event is to happen. This probability is a number between 0 and 1, and it can be written as a fraction:
+probability of an event = number of ways the event can happen / number of equally likely outcomes
+You can use a Punnett square to calculate the probability that a cross will produce certain offspring. For example, the Punnett square below has two boxes with the genotype Ff. It has one box with the genotype FF and one box with the genotype ff. This means there are two ways the parents' alleles can combine to form Ff. There is one way they can combine to form FF and one way they can combine to form ff.
+ | F | f
+F | FF | Ff
+f | Ff | ff
+Consider an event in which this cross produces an offspring with the genotype ff. The probability of this event is given by the following fraction:
+number of ways the event can happen / number of equally likely outcomes = number of boxes with the genotype ff / total number of boxes = 1 / 4."
+train_00566,train,2002,"Offspring phenotypes: dominant or recessive?
+How do you determine an organism's phenotype for a trait? Look at the combination of alleles in the organism's genotype for the gene that affects that trait. Some alleles have types called dominant and recessive. These two types can cause different versions of the trait to appear as the organism's phenotype.
+If an organism's genotype has at least one dominant allele for a gene, the organism's phenotype will be the dominant allele's version of the gene's trait.
+If an organism's genotype has only recessive alleles for a gene, the organism's phenotype will be the recessive allele's version of the gene's trait.
+In a Punnett square, each box represents a different outcome, or result. Each of the four outcomes is equally likely to happen. Each box represents one way the parents' alleles can combine to form an offspring's genotype. Because there are four boxes in the Punnett square, there are four possible outcomes.
+An event is a set of one or more outcomes. The probability of an event is a measure of how likely the event is to happen. This probability is a number between 0 and 1, and it can be written as a fraction:
+probability of an event = number of ways the event can happen / number of equally likely outcomes
+You can use a Punnett square to calculate the probability that a cross will produce certain offspring. For example, the Punnett square below has two boxes with the genotype Ff. It has one box with the genotype FF and one box with the genotype ff. This means there are two ways the parents' alleles can combine to form Ff. There is one way they can combine to form FF and one way they can combine to form ff.
+ | F | f
+F | FF | Ff
+f | Ff | ff
+Consider an event in which this cross produces an offspring with the genotype ff. The probability of this event is given by the following fraction:
+number of ways the event can happen / number of equally likely outcomes = number of boxes with the genotype ff / total number of boxes = 1 / 4."
+train_07096,train,2002,"Offspring phenotypes: dominant or recessive?
+How do you determine an organism's phenotype for a trait? Look at the combination of alleles in the organism's genotype for the gene that affects that trait. Some alleles have types called dominant and recessive. These two types can cause different versions of the trait to appear as the organism's phenotype.
+If an organism's genotype has at least one dominant allele for a gene, the organism's phenotype will be the dominant allele's version of the gene's trait.
+If an organism's genotype has only recessive alleles for a gene, the organism's phenotype will be the recessive allele's version of the gene's trait.
+In a Punnett square, each box represents a different outcome, or result. Each of the four outcomes is equally likely to happen. Each box represents one way the parents' alleles can combine to form an offspring's genotype. Because there are four boxes in the Punnett square, there are four possible outcomes.
+An event is a set of one or more outcomes. The probability of an event is a measure of how likely the event is to happen. This probability is a number between 0 and 1, and it can be written as a fraction:
+probability of an event = number of ways the event can happen / number of equally likely outcomes
+You can use a Punnett square to calculate the probability that a cross will produce certain offspring. For example, the Punnett square below has two boxes with the genotype Ff. It has one box with the genotype FF and one box with the genotype ff. This means there are two ways the parents' alleles can combine to form Ff. There is one way they can combine to form FF and one way they can combine to form ff.
+ | F | f
+F | FF | Ff
+f | Ff | ff
+Consider an event in which this cross produces an offspring with the genotype ff. The probability of this event is given by the following fraction:
+number of ways the event can happen / number of equally likely outcomes = number of boxes with the genotype ff / total number of boxes = 1 / 4."
+train_06457,train,2002,"Offspring phenotypes: dominant or recessive?
+How do you determine an organism's phenotype for a trait? Look at the combination of alleles in the organism's genotype for the gene that affects that trait. Some alleles have types called dominant and recessive. These two types can cause different versions of the trait to appear as the organism's phenotype.
+If an organism's genotype has at least one dominant allele for a gene, the organism's phenotype will be the dominant allele's version of the gene's trait.
+If an organism's genotype has only recessive alleles for a gene, the organism's phenotype will be the recessive allele's version of the gene's trait.
+In a Punnett square, each box represents a different outcome, or result. Each of the four outcomes is equally likely to happen. Each box represents one way the parents' alleles can combine to form an offspring's genotype. Because there are four boxes in the Punnett square, there are four possible outcomes.
+An event is a set of one or more outcomes. The probability of an event is a measure of how likely the event is to happen. This probability is a number between 0 and 1, and it can be written as a fraction:
+probability of an event = number of ways the event can happen / number of equally likely outcomes
+You can use a Punnett square to calculate the probability that a cross will produce certain offspring. For example, the Punnett square below has two boxes with the genotype Ff. It has one box with the genotype FF and one box with the genotype ff. This means there are two ways the parents' alleles can combine to form Ff. There is one way they can combine to form FF and one way they can combine to form ff.
+ | F | f
+F | FF | Ff
+f | Ff | ff
+Consider an event in which this cross produces an offspring with the genotype ff. The probability of this event is given by the following fraction:
+number of ways the event can happen / number of equally likely outcomes = number of boxes with the genotype ff / total number of boxes = 1 / 4."
+train_07986,train,2002,"Offspring phenotypes: dominant or recessive?
+How do you determine an organism's phenotype for a trait? Look at the combination of alleles in the organism's genotype for the gene that affects that trait. Some alleles have types called dominant and recessive. These two types can cause different versions of the trait to appear as the organism's phenotype.
+If an organism's genotype has at least one dominant allele for a gene, the organism's phenotype will be the dominant allele's version of the gene's trait.
+If an organism's genotype has only recessive alleles for a gene, the organism's phenotype will be the recessive allele's version of the gene's trait.
+In a Punnett square, each box represents a different outcome, or result. Each of the four outcomes is equally likely to happen. Each box represents one way the parents' alleles can combine to form an offspring's genotype. Because there are four boxes in the Punnett square, there are four possible outcomes.
+An event is a set of one or more outcomes. The probability of an event is a measure of how likely the event is to happen. This probability is a number between 0 and 1, and it can be written as a fraction:
+probability of an event = number of ways the event can happen / number of equally likely outcomes
+You can use a Punnett square to calculate the probability that a cross will produce certain offspring. For example, the Punnett square below has two boxes with the genotype Ff. It has one box with the genotype FF and one box with the genotype ff. This means there are two ways the parents' alleles can combine to form Ff. There is one way they can combine to form FF and one way they can combine to form ff.
+ | F | f
+F | FF | Ff
+f | Ff | ff
+Consider an event in which this cross produces an offspring with the genotype ff. The probability of this event is given by the following fraction:
+number of ways the event can happen / number of equally likely outcomes = number of boxes with the genotype ff / total number of boxes = 1 / 4."
+train_04327,train,2002,"Offspring phenotypes: dominant or recessive?
+How do you determine an organism's phenotype for a trait? Look at the combination of alleles in the organism's genotype for the gene that affects that trait. Some alleles have types called dominant and recessive. These two types can cause different versions of the trait to appear as the organism's phenotype.
+If an organism's genotype has at least one dominant allele for a gene, the organism's phenotype will be the dominant allele's version of the gene's trait.
+If an organism's genotype has only recessive alleles for a gene, the organism's phenotype will be the recessive allele's version of the gene's trait.
+In a Punnett square, each box represents a different outcome, or result. Each of the four outcomes is equally likely to happen. Each box represents one way the parents' alleles can combine to form an offspring's genotype. Because there are four boxes in the Punnett square, there are four possible outcomes.
+An event is a set of one or more outcomes. The probability of an event is a measure of how likely the event is to happen. This probability is a number between 0 and 1, and it can be written as a fraction:
+probability of an event = number of ways the event can happen / number of equally likely outcomes
+You can use a Punnett square to calculate the probability that a cross will produce certain offspring. For example, the Punnett square below has two boxes with the genotype Ff. It has one box with the genotype FF and one box with the genotype ff. This means there are two ways the parents' alleles can combine to form Ff. There is one way they can combine to form FF and one way they can combine to form ff.
+ | F | f
+F | FF | Ff
+f | Ff | ff
+Consider an event in which this cross produces an offspring with the genotype ff. The probability of this event is given by the following fraction:
+number of ways the event can happen / number of equally likely outcomes = number of boxes with the genotype ff / total number of boxes = 1 / 4."
+train_00021,train,2002,"Offspring phenotypes: dominant or recessive?
+How do you determine an organism's phenotype for a trait? Look at the combination of alleles in the organism's genotype for the gene that affects that trait. Some alleles have types called dominant and recessive. These two types can cause different versions of the trait to appear as the organism's phenotype.
+If an organism's genotype has at least one dominant allele for a gene, the organism's phenotype will be the dominant allele's version of the gene's trait.
+If an organism's genotype has only recessive alleles for a gene, the organism's phenotype will be the recessive allele's version of the gene's trait.
+In a Punnett square, each box represents a different outcome, or result. Each of the four outcomes is equally likely to happen. Each box represents one way the parents' alleles can combine to form an offspring's genotype. Because there are four boxes in the Punnett square, there are four possible outcomes.
+An event is a set of one or more outcomes. The probability of an event is a measure of how likely the event is to happen. This probability is a number between 0 and 1, and it can be written as a fraction:
+probability of an event = number of ways the event can happen / number of equally likely outcomes
+You can use a Punnett square to calculate the probability that a cross will produce certain offspring. For example, the Punnett square below has two boxes with the genotype Ff. It has one box with the genotype FF and one box with the genotype ff. This means there are two ways the parents' alleles can combine to form Ff. There is one way they can combine to form FF and one way they can combine to form ff.
+ | F | f
+F | FF | Ff
+f | Ff | ff
+Consider an event in which this cross produces an offspring with the genotype ff. The probability of this event is given by the following fraction:
+number of ways the event can happen / number of equally likely outcomes = number of boxes with the genotype ff / total number of boxes = 1 / 4."
+train_02625,train,2002,"Offspring phenotypes: dominant or recessive?
+How do you determine an organism's phenotype for a trait? Look at the combination of alleles in the organism's genotype for the gene that affects that trait. Some alleles have types called dominant and recessive. These two types can cause different versions of the trait to appear as the organism's phenotype.
+If an organism's genotype has at least one dominant allele for a gene, the organism's phenotype will be the dominant allele's version of the gene's trait.
+If an organism's genotype has only recessive alleles for a gene, the organism's phenotype will be the recessive allele's version of the gene's trait.
+In a Punnett square, each box represents a different outcome, or result. Each of the four outcomes is equally likely to happen. Each box represents one way the parents' alleles can combine to form an offspring's genotype. Because there are four boxes in the Punnett square, there are four possible outcomes.
+An event is a set of one or more outcomes. The probability of an event is a measure of how likely the event is to happen. This probability is a number between 0 and 1, and it can be written as a fraction:
+probability of an event = number of ways the event can happen / number of equally likely outcomes
+You can use a Punnett square to calculate the probability that a cross will produce certain offspring. For example, the Punnett square below has two boxes with the genotype Ff. It has one box with the genotype FF and one box with the genotype ff. This means there are two ways the parents' alleles can combine to form Ff. There is one way they can combine to form FF and one way they can combine to form ff.
+ | F | f
+F | FF | Ff
+f | Ff | ff
+Consider an event in which this cross produces an offspring with the genotype ff. The probability of this event is given by the following fraction:
+number of ways the event can happen / number of equally likely outcomes = number of boxes with the genotype ff / total number of boxes = 1 / 4."
+train_05508,train,2002,"Offspring phenotypes: dominant or recessive?
+How do you determine an organism's phenotype for a trait? Look at the combination of alleles in the organism's genotype for the gene that affects that trait. Some alleles have types called dominant and recessive. These two types can cause different versions of the trait to appear as the organism's phenotype.
+If an organism's genotype has at least one dominant allele for a gene, the organism's phenotype will be the dominant allele's version of the gene's trait.
+If an organism's genotype has only recessive alleles for a gene, the organism's phenotype will be the recessive allele's version of the gene's trait.
+In a Punnett square, each box represents a different outcome, or result. Each of the four outcomes is equally likely to happen. Each box represents one way the parents' alleles can combine to form an offspring's genotype. Because there are four boxes in the Punnett square, there are four possible outcomes.
+An event is a set of one or more outcomes. The probability of an event is a measure of how likely the event is to happen. This probability is a number between 0 and 1, and it can be written as a fraction:
+probability of an event = number of ways the event can happen / number of equally likely outcomes
+You can use a Punnett square to calculate the probability that a cross will produce certain offspring. For example, the Punnett square below has two boxes with the genotype Ff. It has one box with the genotype FF and one box with the genotype ff. This means there are two ways the parents' alleles can combine to form Ff. There is one way they can combine to form FF and one way they can combine to form ff.
+ | F | f
+F | FF | Ff
+f | Ff | ff
+Consider an event in which this cross produces an offspring with the genotype ff. The probability of this event is given by the following fraction:
+number of ways the event can happen / number of equally likely outcomes = number of boxes with the genotype ff / total number of boxes = 1 / 4."
+train_08275,train,2002,"Offspring phenotypes: dominant or recessive?
+How do you determine an organism's phenotype for a trait? Look at the combination of alleles in the organism's genotype for the gene that affects that trait. Some alleles have types called dominant and recessive. These two types can cause different versions of the trait to appear as the organism's phenotype.
+If an organism's genotype has at least one dominant allele for a gene, the organism's phenotype will be the dominant allele's version of the gene's trait.
+If an organism's genotype has only recessive alleles for a gene, the organism's phenotype will be the recessive allele's version of the gene's trait.
+In a Punnett square, each box represents a different outcome, or result. Each of the four outcomes is equally likely to happen. Each box represents one way the parents' alleles can combine to form an offspring's genotype. Because there are four boxes in the Punnett square, there are four possible outcomes.
+An event is a set of one or more outcomes. The probability of an event is a measure of how likely the event is to happen. This probability is a number between 0 and 1, and it can be written as a fraction:
+probability of an event = number of ways the event can happen / number of equally likely outcomes
+You can use a Punnett square to calculate the probability that a cross will produce certain offspring. For example, the Punnett square below has two boxes with the genotype Ff. It has one box with the genotype FF and one box with the genotype ff. This means there are two ways the parents' alleles can combine to form Ff. There is one way they can combine to form FF and one way they can combine to form ff.
+ | F | f
+F | FF | Ff
+f | Ff | ff
+Consider an event in which this cross produces an offspring with the genotype ff. The probability of this event is given by the following fraction:
+number of ways the event can happen / number of equally likely outcomes = number of boxes with the genotype ff / total number of boxes = 1 / 4."
+train_04636,train,2002,"Offspring phenotypes: dominant or recessive?
+How do you determine an organism's phenotype for a trait? Look at the combination of alleles in the organism's genotype for the gene that affects that trait. Some alleles have types called dominant and recessive. These two types can cause different versions of the trait to appear as the organism's phenotype.
+If an organism's genotype has at least one dominant allele for a gene, the organism's phenotype will be the dominant allele's version of the gene's trait.
+If an organism's genotype has only recessive alleles for a gene, the organism's phenotype will be the recessive allele's version of the gene's trait.
+In a Punnett square, each box represents a different outcome, or result. Each of the four outcomes is equally likely to happen. Each box represents one way the parents' alleles can combine to form an offspring's genotype. Because there are four boxes in the Punnett square, there are four possible outcomes.
+An event is a set of one or more outcomes. The probability of an event is a measure of how likely the event is to happen. This probability is a number between 0 and 1, and it can be written as a fraction:
+probability of an event = number of ways the event can happen / number of equally likely outcomes
+You can use a Punnett square to calculate the probability that a cross will produce certain offspring. For example, the Punnett square below has two boxes with the genotype Ff. It has one box with the genotype FF and one box with the genotype ff. This means there are two ways the parents' alleles can combine to form Ff. There is one way they can combine to form FF and one way they can combine to form ff.
+ | F | f
+F | FF | Ff
+f | Ff | ff
+Consider an event in which this cross produces an offspring with the genotype ff. The probability of this event is given by the following fraction:
+number of ways the event can happen / number of equally likely outcomes = number of boxes with the genotype ff / total number of boxes = 1 / 4."
+train_07713,train,2002,"Offspring phenotypes: dominant or recessive?
+How do you determine an organism's phenotype for a trait? Look at the combination of alleles in the organism's genotype for the gene that affects that trait. Some alleles have types called dominant and recessive. These two types can cause different versions of the trait to appear as the organism's phenotype.
+If an organism's genotype has at least one dominant allele for a gene, the organism's phenotype will be the dominant allele's version of the gene's trait.
+If an organism's genotype has only recessive alleles for a gene, the organism's phenotype will be the recessive allele's version of the gene's trait.
+In a Punnett square, each box represents a different outcome, or result. Each of the four outcomes is equally likely to happen. Each box represents one way the parents' alleles can combine to form an offspring's genotype. Because there are four boxes in the Punnett square, there are four possible outcomes.
+An event is a set of one or more outcomes. The probability of an event is a measure of how likely the event is to happen. This probability is a number between 0 and 1, and it can be written as a fraction:
+probability of an event = number of ways the event can happen / number of equally likely outcomes
+You can use a Punnett square to calculate the probability that a cross will produce certain offspring. For example, the Punnett square below has two boxes with the genotype Ff. It has one box with the genotype FF and one box with the genotype ff. This means there are two ways the parents' alleles can combine to form Ff. There is one way they can combine to form FF and one way they can combine to form ff.
+ | F | f
+F | FF | Ff
+f | Ff | ff
+Consider an event in which this cross produces an offspring with the genotype ff. The probability of this event is given by the following fraction:
+number of ways the event can happen / number of equally likely outcomes = number of boxes with the genotype ff / total number of boxes = 1 / 4."

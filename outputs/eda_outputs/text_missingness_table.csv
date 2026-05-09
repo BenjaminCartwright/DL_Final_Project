@@ -1,0 +1,12 @@
+split,column,null_count,empty_or_whitespace_count
+train,question,0,0
+train,hint,724,724
+train,lecture,440,440
+train,solution,529,529
+val,question,0,0
+val,hint,232,232
+val,lecture,133,133
+val,solution,172,172
+test,question,0,0
+test,hint,214,214
+test,lecture,183,183
